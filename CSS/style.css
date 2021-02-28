@@ -1190,6 +1190,9 @@ footer {
     margin-bottom: 35px;
     z-index: 2;
   }
+  .mobile-element {
+    display: none;
+  }
 
   .tablet-element {
     display: none !important;
