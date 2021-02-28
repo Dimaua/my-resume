@@ -127,6 +127,9 @@ body {
 .container-left {
   align-items: flex-start;
 }
+.front-page-my-decr {
+  color: var(--txt-c-light);
+}
 
 .section-title {
   font-weight: bold;
@@ -902,7 +905,7 @@ footer {
   margin-top: 30px;
   margin-bottom: 20px;
 }
-.socials a {
+.socials a i {
   font-size: 25px;
   margin-left: 35px;
 }
