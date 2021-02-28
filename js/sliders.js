@@ -2,8 +2,8 @@ const swiper = new Swiper('.swiper-container', {
   // Optional parameters
 //   direction: 'vertical',
 //   loop: true,
-  effect: 'flip',
-  grabCursor: true,
+  //effect: 'flip',
+  //grabCursor: true,
   // If we need pagination
   pagination: {
     el: '.swiper-pagination',
